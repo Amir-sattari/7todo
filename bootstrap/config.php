@@ -1,8 +1,8 @@
 <?php
 
-$database_config = [
+$database_config = (object) [
     'host' => 'localhost',
-    'db' => '7task',
+    'db' => '7todo',
     'user' => 'root',
     'pass' => ''
 ];
